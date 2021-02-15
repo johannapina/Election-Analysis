@@ -22,5 +22,3 @@
 
 ## Election-Audit Summary
 We are proposing that this script be utilized for future elections. The script can be used with minor updates involving the location of the information for the new election. As an example, if the county or the candidate are in different columns, the location of the desired information would need to be updated within the script for it to run properly.  Additionally, the name and the location of the new document will need to be modified as well. Otherwise, all the calculations are automated to reduce human error and increase efficiency.
-
-
