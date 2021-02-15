@@ -9,7 +9,7 @@
 ## Election- Audit Results
 - There were 369,711 votes cast in the election. 
 - Below are the percentage and count of votes per county:
-![votes per county.png](/Users/johannapina/Desktop/votes per county.png)
+![votes_per_county.png](/Users/johannapina/Desktop/votes per county.png)
 - The county with the largest number of votes was Denver.
 - The candidates and their results are included below:
 ![Votes per candidate.png](/Users/johannapina/Desktop/Votes per candidate.png)
