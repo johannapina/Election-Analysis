@@ -10,14 +10,17 @@
 - There were 369,711 votes cast in the election. 
 
 - Below are the percentage and count of votes per county:
+
 ![votes_per_county](Resources/votes_per_county.png)
 
 - The county with the largest number of votes was Denver.
 
 - The candidates and their results are included below:
+
 ![votes_per_candidate](Resources/votes_per_candidate.png)
 
 - Based on these results, the winner of the election was Diana Degette:
+
 ![winner](Resources/Winner.png)
 
 ## Election-Audit Summary
